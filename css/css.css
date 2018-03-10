@@ -1,0 +1,100 @@
+body{
+	margin:20px 0 0 0;
+	padding:0;
+	text-align:center;
+	background:#9C735D;
+	color:#333;
+	font-family:Rosario;
+	}
+	#presentazione{
+	margin:auto;
+	text-align:left;
+	background:#ffffff;
+	width:880px;
+	padding:10px;
+	}
+	#presentazione h1{
+		text-align: center;
+		font-family: Quattrocento;
+		font-variant: small-caps;
+		margin-top: 40px;
+		font-size: 32px;
+	}
+	#immagine{
+	float:left;
+	width:420px;
+	height:776px;
+	margin:20px;
+	}
+	#immagine img{
+	float:left;
+	border:none;
+	width:420px;
+	height:736px;
+	margin-top: 20px;
+	}
+	h1{
+	font-size:26px;
+	color:#333;
+	}
+	h2{
+	font-size:20px;
+	color:#333;
+	}
+	#zoom:hover,
+	#zoom:focus,
+	#zoom:active{
+	color:#666;
+	}
+	#footer{
+	clear:left;	
+	width:900px;
+	height: 150px;
+	border-top: 1px dotted #cccccc;
+	margin:-100px -10px;
+	background-color: #333333;
+	}
+	#footer p{
+	margin-top: 30px;
+	font-size:14px;
+	text-align: center;
+	color: #DBDBDB;
+	}
+	#footer a{
+	color:#B5B5B5;
+	}
+	#zoomazzo{
+		margin-top: 100px;
+		margin-bottom: 14px;
+	}
+	#zoom{
+	text-decoration:none;
+	display:block;
+	color:#666;
+	margin-top:10px;
+	padding-top:5px;
+	float:left;
+	}
+	#accordion-container table{
+	border-collapse:collapse;
+	border:none;
+	font-size:16px;
+	width:100%;
+	}
+	table td{
+	border-bottom:1px dotted #ccc;
+	padding-top:4px;
+	}
+	
+	table tr .right{
+	text-align:right;
+	}
+	#accordion-container h3{
+	font-size:20px;
+	}
+	.accordion-content p{
+	text-align:justify;
+	}
+	#fonte{
+		font-size: 11px;
+	}
